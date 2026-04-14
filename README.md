@@ -37,6 +37,13 @@ Organization: SkillInfyTech
 - GitHub
 
 ---
+## 📷 Project Screenshots
 
-## 📷 Output Screenshots
-Project 1:- 
+### 🔹 Employee Management
+![Employee Output](https://github.com/shingaded70/SQL-Internship-Projects/blob/main/project1.jpg)
+
+### 🔹 Student Result
+![Student Output](PASTE_LINK_HERE)
+
+### 🔹 E-commerce
+![Ecommerce Output](PASTE_LINK_HERE)
