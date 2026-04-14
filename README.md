@@ -40,8 +40,8 @@ Organization: SkillInfyTech
 ## 📷 Project Screenshots
 
 ### 🔹 Employee Management
-![Employee Output](https://github.com/shingaded70/SQL-Internship-Projects/blob/main/project1.jpg  / https://github.com/shingaded70/SQL-Internship-Projects/blob/main/project1-2.jpg)
-
+![Employee Output](https://github.com/shingaded70/SQL-Internship-Projects/blob/main/project1.jpg)
+![Employee Output2](https://github.com/shingaded70/SQL-Internship-Projects/blob/main/project1-2.jpg)
 ### 🔹 Student Result
 ![Student Output](PASTE_LINK_HERE)
 
