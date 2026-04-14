@@ -1,3 +1,4 @@
+# SQL Internship Projects 🚀
  # SQL Internship Projects – SkillInfyTech
 
 ## 👨‍💻 Intern Details
