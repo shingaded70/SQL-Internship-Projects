@@ -43,7 +43,8 @@ Organization: SkillInfyTech
 ![Employee Output](https://github.com/shingaded70/SQL-Internship-Projects/blob/main/project1.jpg)
 ![Employee Output2](https://github.com/shingaded70/SQL-Internship-Projects/blob/main/project1-2.jpg)
 ### 🔹 Student Result
-![Student Output](PASTE_LINK_HERE)
-
+![Student Output](https://github.com/shingaded70/SQL-Internship-Projects/blob/main/project2-1.jpg)
+![Student Output2](https://github.com/shingaded70/SQL-Internship-Projects/blob/main/project2-2.jpg)
+![Student Output3](https://github.com/shingaded70/SQL-Internship-Projects/blob/main/project2-3.jpg)
 ### 🔹 E-commerce
 ![Ecommerce Output](PASTE_LINK_HERE)
