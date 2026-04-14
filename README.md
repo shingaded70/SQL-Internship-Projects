@@ -1,5 +1,4 @@
-# SQL-Internship-Projects
-# SQL Internship Projects – SkillInfyTech
+ # SQL Internship Projects – SkillInfyTech
 
 ## 👨‍💻 Intern Details
 Name: Dhiraj Sharad Shingade
@@ -37,10 +36,11 @@ Organization: SkillInfyTech
 - GitHub
 
 ---
+
 ## 📷 Project Screenshots
 
 ### 🔹 Employee Management
-![Employee Output](https://github.com/shingaded70/SQL-Internship-Projects/blob/main/project1.jpg)
+![Employee Output](https://github.com/shingaded70/SQL-Internship-Projects/blob/main/project1.jpg  https://github.com/shingaded70/SQL-Internship-Projects/blob/6626ac50302cd1139ebf1a2141c767fd11c5a11f/project1-2.jpg)
 
 ### 🔹 Student Result
 ![Student Output](PASTE_LINK_HERE)
