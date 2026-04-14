@@ -1,1 +1,42 @@
 # SQL-Internship-Projects
+# SQL Internship Projects – SkillInfyTech
+
+## 👨‍💻 Intern Details
+Name: Dhiraj Sharad Shingade
+Domain: SQL Internship  
+Organization: SkillInfyTech  
+
+---
+
+## 📌 Projects Completed
+
+### 🔹 1. Employee Management Database
+- Managed employee records (name, department, salary, join date)
+- Performed filtering and sorting using SQL queries
+
+### 🔹 2. Student Result System
+- Stored student marks across subjects
+- Calculated average and highest marks using JOIN and GROUP BY
+
+### 🔹 3. E-commerce Database
+- Designed system for customers, products, and orders
+- Implemented relationships using JOIN operations
+
+---
+
+## 🛠️ Skills Learned
+- SQL Basics (SELECT, WHERE, ORDER BY)
+- JOIN operations
+- GROUP BY & Aggregate Functions
+- Database Design
+
+---
+
+## ⚙️ Tools Used
+- SQLite Online
+- GitHub
+
+---
+
+## 📷 Output Screenshots
+Project 1:- 
